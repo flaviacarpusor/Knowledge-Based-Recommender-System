@@ -1,0 +1,285 @@
+
+Name: Morceaux de fantaisie, Op. 3: No. 2, PrÃ©lude in C-Sharp Minor. Lento
+Artists: [SergeiRachmaninoff]
+Decade: the1920s
+Mood (Valence): c1
+Energy: c1
+Danceability: c4
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: yes
+Musical Key: 1
+Popularity: c1
+Liveness: c4
+Loudness: c7
+Mode (0=minor, 1=major): 0
+Speechiness: c1
+Tempo: c5
+----------------------------------------
+
+Name: Gati Bali
+Artists: [KHPKridhamardawaKaratonNgayogyakartaHadiningrat]
+Decade: the1920s
+Mood (Valence): c1
+Energy: c2
+Danceability: c4
+Acousticness: c10
+Duration: c6
+Explicit content: no
+Instrumental: yes
+Musical Key: 3
+Popularity: c1
+Liveness: c2
+Loudness: c8
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c6
+----------------------------------------
+
+Name: Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve
+Artists: [SergeiRachmaninoff,JamesLevine,BerlinerPhilharmoniker]
+Decade: the1920s
+Mood (Valence): c1
+Energy: c3
+Danceability: c3
+Acousticness: c10
+Duration: c10
+Explicit content: no
+Instrumental: yes
+Musical Key: 10
+Popularity: c1
+Liveness: c7
+Loudness: c7
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c5
+----------------------------------------
+
+Name: Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve
+Artists: [SergeiRachmaninoff,JamesLevine,BerlinerPhilharmoniker]
+Decade: the1920s
+Mood (Valence): c1
+Energy: c3
+Danceability: c3
+Acousticness: c10
+Duration: c10
+Explicit content: no
+Instrumental: yes
+Musical Key: 10
+Popularity: c1
+Liveness: c7
+Loudness: c7
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c5
+----------------------------------------
+
+Name: When We Die
+Artists: [THEGUY]
+Decade: the1920s
+Mood (Valence): c1
+Energy: c5
+Danceability: c6
+Acousticness: c2
+Duration: c3
+Explicit content: yes
+Instrumental: no
+Musical Key: 4
+Popularity: c1
+Liveness: c2
+Loudness: c9
+Mode (0=minor, 1=major): 0
+Speechiness: c1
+Tempo: c5
+----------------------------------------
+
+Name: Danny Boy
+Artists: [FrankParker]
+Decade: the1920s
+Mood (Valence): c2
+Energy: c4
+Danceability: c3
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: no
+Musical Key: 5
+Popularity: c1
+Liveness: c4
+Loudness: c9
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c6
+----------------------------------------
+
+Name: 10 PrÃ©ludes, Op. 23: No. 5 in G Minor. Alla marcia
+Artists: [SergeiRachmaninoff,RuthLaredo]
+Decade: the1920s
+Mood (Valence): c3
+Energy: c2
+Danceability: c4
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: yes
+Musical Key: 7
+Popularity: c1
+Liveness: c2
+Loudness: c7
+Mode (0=minor, 1=major): 0
+Speechiness: c1
+Tempo: c6
+----------------------------------------
+
+Name: When Irish Eyes Are Smiling
+Artists: [PhilRegan]
+Decade: the1920s
+Mood (Valence): c3
+Energy: c2
+Danceability: c5
+Acousticness: c10
+Duration: c2
+Explicit content: no
+Instrumental: no
+Musical Key: 3
+Popularity: c1
+Liveness: c3
+Loudness: c9
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c6
+----------------------------------------
+
+Name: Come Back To Erin
+Artists: [PhilRegan]
+Decade: the1920s
+Mood (Valence): c3
+Energy: c3
+Danceability: c3
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: no
+Musical Key: 2
+Popularity: c1
+Liveness: c3
+Loudness: c8
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c5
+----------------------------------------
+
+Name: Gati Mardika
+Artists: [KHPKridhamardawaKaratonNgayogyakartaHadiningrat]
+Decade: the1920s
+Mood (Valence): c3
+Energy: c4
+Danceability: c7
+Acousticness: c6
+Duration: c5
+Explicit content: no
+Instrumental: no
+Musical Key: 2
+Popularity: c1
+Liveness: c2
+Loudness: c8
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c6
+----------------------------------------
+
+Name: Ud Taksimi
+Artists: [MehmetKemiksiz]
+Decade: the1920s
+Mood (Valence): c3
+Energy: c5
+Danceability: c5
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: yes
+Musical Key: 8
+Popularity: c1
+Liveness: c2
+Loudness: c9
+Mode (0=minor, 1=major): 0
+Speechiness: c2
+Tempo: c4
+----------------------------------------
+
+Name: The Wearing of the Green
+Artists: [JohnMcCormack]
+Decade: the1920s
+Mood (Valence): c5
+Energy: c3
+Danceability: c6
+Acousticness: c11
+Duration: c2
+Explicit content: no
+Instrumental: no
+Musical Key: 0
+Popularity: c1
+Liveness: c2
+Loudness: c9
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c4
+----------------------------------------
+
+Name: La VipÃ¨re
+Artists: [Georgel]
+Decade: the1920s
+Mood (Valence): c5
+Energy: c4
+Danceability: c4
+Acousticness: c10
+Duration: c3
+Explicit content: no
+Instrumental: no
+Musical Key: 5
+Popularity: c1
+Liveness: c3
+Loudness: c8
+Mode (0=minor, 1=major): 0
+Speechiness: c1
+Tempo: c9
+----------------------------------------
+
+Name: Power Is Power
+Artists: [ZayGatsby]
+Decade: the1920s
+Mood (Valence): c5
+Energy: c7
+Danceability: c6
+Acousticness: c1
+Duration: c3
+Explicit content: yes
+Instrumental: no
+Musical Key: 7
+Popularity: c1
+Liveness: c4
+Loudness: c9
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c8
+----------------------------------------
+
+Name: RÃ¡kÃ³czy March
+Artists: [HectorBerlioz,ArturoToscanini]
+Decade: the1920s
+Mood (Valence): c7
+Energy: c3
+Danceability: c6
+Acousticness: c11
+Duration: c3
+Explicit content: no
+Instrumental: yes
+Musical Key: 9
+Popularity: c1
+Liveness: c4
+Loudness: c8
+Mode (0=minor, 1=major): 1
+Speechiness: c1
+Tempo: c6
+----------------------------------------
